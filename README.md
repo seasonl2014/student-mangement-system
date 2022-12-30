@@ -4,6 +4,8 @@
 >
 > 前端项目gitHub源码地址：https://github.com/seasonl2014/student-mangement-system-web
 >
+> 知识星球地址：https://t.zsxq.com/09BZEGLJB
+>
 > 欢迎给个star鼓励一下~
 
 ## 系统功能结构
@@ -54,6 +56,8 @@
 本项目配套详细的项目开发手册，有兴趣的话，可以加入我的星球查看，
 
 [知识星球地址](https://t.zsxq.com/09BZEGLJB)
+
+[知识星球优惠券](https://t.zsxq.com/09VFQmjwF)
 
 星球提供如下服务：
 
