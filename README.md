@@ -10,7 +10,7 @@
 
 > 登录页面
 
-![登录页面](images/EDj9L.jpg)
+![登录页面](https://i.imgtg.com/2022/12/30/EDj9L.jpg)
 
 > 课程管理
 
