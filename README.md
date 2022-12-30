@@ -1,5 +1,11 @@
 # 基于SpringBoot3+Vue3整合开发学生信息管理系统
 
+> 后端项目gitHub源码地址：https://github.com/seasonl2014/student-mangement-system
+>
+> 前端项目gitHub源码地址：https://gitee.com/liuchuanfengview/gymxmjpa
+>
+> 欢迎给个star鼓励一下~
+
 ## 系统功能结构
 
 本系统主要有两种角色，分别管理员角色和普通用户角色，其中：
@@ -27,7 +33,7 @@
 
 ## 数据库表
 
-本项目由七章表，分别如下：
+本项目由七张表，分别如下：
 
 1、用户表（sys_user）
 
@@ -60,6 +66,12 @@
 4.关于项目或者学习过程中不懂的问题可以随时提问，星主将1对1解答你的问题。 
 
 ![知识星球]( https://i.imgtg.com/2022/12/30/EHWaG.png )
+
+
+
+## 配套视频教程
+
+
 
 
 
