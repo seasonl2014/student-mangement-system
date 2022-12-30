@@ -1,16 +1,14 @@
 # 基于SpringBoot3+Vue3整合开发学生信息管理系统
 
-### 系统功能结构
+## 系统功能结构
+
+本系统主要有两种角色，分别管理员角色和普通用户角色，其中，管理员角色主要功能有：后台首页展示、个人信息展示和修改、用户管理、角色管理、班级管理、学生管理、课程管理、教师管理、班级科目成绩管理、班级科目成绩统计、班级科目对比统计等功能，如图所示：
 
 
 
-### Guides
+## 项目预览
 
-The following guides illustrate how to use some features concretely:
+> 登录页面
 
-* [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
-* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+![登录页面](images/EDj9L.jpg)
 
