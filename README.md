@@ -2,7 +2,7 @@
 
 > 后端项目gitHub源码地址：https://github.com/seasonl2014/student-mangement-system
 >
-> 前端项目gitHub源码地址：https://gitee.com/liuchuanfengview/gymxmjpa
+> 前端项目gitHub源码地址：https://github.com/seasonl2014/student-mangement-system-web
 >
 > 欢迎给个star鼓励一下~
 
