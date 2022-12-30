@@ -18,9 +18,14 @@
 
 
 
+> 班级管理
 
+![班级管理]( https://i.imgtg.com/2022/12/30/EHojq.jpg ) 
 
+> 教师管理
 
+![教师管理]( https://i.imgtg.com/2022/12/30/EH5Uc.jpg )
 
+> 学生管理
 
-
+![学生管理]( https://i.imgtg.com/2022/12/30/EHByr.jpg )
