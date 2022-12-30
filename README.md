@@ -28,7 +28,7 @@
 
 本项目配套详细的项目开发手册，有兴趣的话，可以加入我的星球查看，
 
-[地址]: https://public.zsxq.com/groups/15528815224152.html
+[知识星球地址](https://t.zsxq.com/09BZEGLJB)
 
 星球提供如下服务：
 
