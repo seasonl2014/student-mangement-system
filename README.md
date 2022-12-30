@@ -14,7 +14,7 @@
 
 > 课程管理
 
-![课程管理](images/EHOFY.jpg)
+![课程管理]( https://i.imgtg.com/2022/12/30/EHOFY.jpg )
 
 
 
