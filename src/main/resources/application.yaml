@@ -1,0 +1,39 @@
+# ?????
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: iqszrJtC7pD0tZOVNq8_5
+    url: jdbc:mysql://localhost:3306/xueden_student_mangement_system?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=true
+    hikari:
+      minimum-idle: 10 #????????
+      maximum-pool-size: 10  #????????????10
+      idle-timeout: 120000 #?????????????600000?10???
+      auto-commit: true  #?????????????????????,????true
+      max-lifetime: 1800000 #??????????????????0???????????1800000?30??
+      connection-timeout: 30000 #?????????,??30???30000
+      connection-test-query: SELECT 1
+
+
+
+  jpa:
+    hibernate:
+      ddl-auto: update # 生产环境设置成 none，避免程序运行时自动更新数据库结构
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+  mail:
+    host: smtp.qq.com
+    port: 465
+    username: 379533177@qq.com
+    password: ryjxbuztvacacahj  # 配置用户的密码（即上面我们申请到的授权码）
+    properties:
+      mail:
+        debug: true # 开启 debug，这样方便开发者查看邮件发送日志
+        smtp:
+          socketFactory:
+            class: javax.net.ssl.SSLSocketFactory
+# 用户头像存放路径
+user:
+  icon: E:\\student-mangement-system\\
